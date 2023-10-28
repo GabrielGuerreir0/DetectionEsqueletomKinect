@@ -1,0 +1,36 @@
+C:\Users\Gabriel\Documents\Visual Studio 2012\Projects\AlxiliarKinect\AlxiliarKinect\bin\Debug\AlxiliarKinect.dll
+C:\Users\Gabriel\Documents\Visual Studio 2012\Projects\AlxiliarKinect\AlxiliarKinect\bin\Debug\AlxiliarKinect.pdb
+C:\Users\Gabriel\Documents\Visual Studio 2012\Projects\AlxiliarKinect\AlxiliarKinect\obj\Debug\AlxiliarKinect.dll
+C:\Users\Gabriel\Documents\Visual Studio 2012\Projects\AlxiliarKinect\AlxiliarKinect\obj\Debug\AlxiliarKinect.pdb
+D:\visão comput\AlxiliarKinect\AlxiliarKinect\bin\Debug\AlxiliarKinect.dll
+D:\visão comput\AlxiliarKinect\AlxiliarKinect\bin\Debug\AlxiliarKinect.pdb
+D:\visão comput\AlxiliarKinect\AlxiliarKinect\bin\Debug\Microsoft.Kinect.dll
+D:\visão comput\AlxiliarKinect\AlxiliarKinect\bin\Debug\Microsoft.Kinect.xml
+D:\visão comput\AlxiliarKinect\AlxiliarKinect\obj\Debug\AlxiliarKinect.csproj.CoreCompileInputs.cache
+D:\visão comput\AlxiliarKinect\AlxiliarKinect\obj\Debug\AlxiliarKinect.csproj.CopyComplete
+D:\visão comput\AlxiliarKinect\AlxiliarKinect\obj\Debug\AlxiliarKinect.dll
+D:\visão comput\AlxiliarKinect\AlxiliarKinect\obj\Debug\AlxiliarKinect.pdb
+C:\Users\Gabriel\Documents\Visual Studio 2012\Projects\AlxiliarKinect\AlxiliarKinect\bin\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\Gabriel\Documents\Visual Studio 2012\Projects\AlxiliarKinect\AlxiliarKinect\obj\Debug\AlxiliarKinect.csprojResolveAssemblyReference.cache
+D:\faculdade\visao comput 3\AlxiliarKinect\AlxiliarKinect\obj\Debug\AlxiliarKinect.csproj.CoreCompileInputs.cache
+D:\faculdade\visao comput 3\AlxiliarKinect\AlxiliarKinect\obj\Debug\AlxiliarKinect.dll
+D:\faculdade\visao comput 3\AlxiliarKinect\AlxiliarKinect\obj\Debug\AlxiliarKinect.pdb
+D:\faculdade\visao comput 3\AlxiliarKinect\AlxiliarKinect\bin\Debug\AlxiliarKinect.dll
+D:\faculdade\visao comput 3\AlxiliarKinect\AlxiliarKinect\bin\Debug\AlxiliarKinect.pdb
+D:\faculdade\visao comput 3\AlxiliarKinect\AlxiliarKinect\bin\Debug\DocumentFormat.OpenXml.dll
+D:\faculdade\visao comput 3\AlxiliarKinect\AlxiliarKinect\bin\Debug\Microsoft.Kinect.dll
+D:\faculdade\visao comput 3\AlxiliarKinect\AlxiliarKinect\bin\Debug\DocumentFormat.OpenXml.xml
+D:\faculdade\visao comput 3\AlxiliarKinect\AlxiliarKinect\bin\Debug\Microsoft.Kinect.xml
+D:\faculdade\visao comput 3\AlxiliarKinect\AlxiliarKinect\obj\Debug\AlxiliarKinect.csproj.CopyComplete
+D:\faculdade\visao comput 3\AlxiliarKinect\AlxiliarKinect\obj\Debug\AlxiliarKinect.csproj.AssemblyReference.cache
+E:\faculdade\visao comput 3\AlxiliarKinect\AlxiliarKinect\bin\Debug\AlxiliarKinect.dll
+E:\faculdade\visao comput 3\AlxiliarKinect\AlxiliarKinect\bin\Debug\AlxiliarKinect.pdb
+E:\faculdade\visao comput 3\AlxiliarKinect\AlxiliarKinect\bin\Debug\DocumentFormat.OpenXml.dll
+E:\faculdade\visao comput 3\AlxiliarKinect\AlxiliarKinect\bin\Debug\Microsoft.Kinect.dll
+E:\faculdade\visao comput 3\AlxiliarKinect\AlxiliarKinect\bin\Debug\DocumentFormat.OpenXml.xml
+E:\faculdade\visao comput 3\AlxiliarKinect\AlxiliarKinect\bin\Debug\Microsoft.Kinect.xml
+E:\faculdade\visao comput 3\AlxiliarKinect\AlxiliarKinect\obj\Debug\AlxiliarKinect.csproj.AssemblyReference.cache
+E:\faculdade\visao comput 3\AlxiliarKinect\AlxiliarKinect\obj\Debug\AlxiliarKinect.csproj.CoreCompileInputs.cache
+E:\faculdade\visao comput 3\AlxiliarKinect\AlxiliarKinect\obj\Debug\AlxiliarKinect.csproj.CopyComplete
+E:\faculdade\visao comput 3\AlxiliarKinect\AlxiliarKinect\obj\Debug\AlxiliarKinect.dll
+E:\faculdade\visao comput 3\AlxiliarKinect\AlxiliarKinect\obj\Debug\AlxiliarKinect.pdb
