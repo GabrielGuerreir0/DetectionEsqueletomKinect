@@ -16,34 +16,6 @@ Antes de iniciar o desenvolvimento, é necessário configurar o ambiente com as 
 - **Linguagem de Programação**: O projeto foi desenvolvido em C# para aproveitar as bibliotecas oferecidas pelo Kinect SDK.
 - **IDE**: Visual Studio ou outra IDE compatível com desenvolvimento em C#.
 
-### Classes Principais
-
-O projeto contém as seguintes classes principais:
-
-#### Classe `KinectSensorManager`
-
-Gerencia a inicialização e o controle do sensor Kinect.
-
-- **Métodos:**
-  - `InitializeSensor()`: Inicializa o sensor Kinect.
-  - `StopSensor()`: Para o sensor Kinect.
-  - `GetSkeletonData()`: Obtém os dados do esqueleto capturados pelo sensor.
-
-#### Classe `SkeletonTracker`
-
-Responsável por processar os dados do esqueleto e realizar o rastreamento dos movimentos.
-
-- **Métodos:**
-  - `TrackSkeleton()`: Processa os dados do esqueleto e realiza o rastreamento.
-  - `GetJointPosition()`: Retorna a posição de uma articulação específica.
-
-#### Classe `MainWindow`
-
-Interface gráfica do usuário (GUI) para visualizar os dados do rastreamento em tempo real.
-
-- **Métodos:**
-  - `UpdateSkeletonView()`: Atualiza a visualização do esqueleto na interface gráfica.
-
 ## Requisitos
 
 - Kinect do Xbox com cabo de conexão para PC.
@@ -55,7 +27,7 @@ Interface gráfica do usuário (GUI) para visualizar os dados do rastreamento em
 
 1. Clone este repositório para sua máquina local:
     ```bash
-    git clone https://github.com/seu-usuario/projeto-kinect-rastreamento.git
+    git clone https://github.com/GabrielGuerreir0/DetectionEsqueletomKinect.git
     ```
 
 2. Abra o projeto no Visual Studio.
@@ -68,19 +40,4 @@ Interface gráfica do usuário (GUI) para visualizar os dados do rastreamento em
 
 ## Exemplo de Uso
 
-A interface gráfica permite visualizar o esqueleto rastreado em tempo real. Aqui está um exemplo de como o código pode ser utilizado:
-
-```csharp
-public class Program
-{
-    public static void Main(string[] args)
-    {
-        KinectSensorManager sensorManager = new KinectSensorManager();
-        sensorManager.InitializeSensor();
-
-        SkeletonTracker tracker = new SkeletonTracker();
-        tracker.TrackSkeleton(sensorManager.GetSkeletonData());
-
-        Application.Run(new MainWindow());
-    }
-}
+A interface gráfica permite visualizar o esqueleto rastreado em tempo real.
